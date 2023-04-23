@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p  align="center"><img alt="coding" width="75%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"></p><br>
 
 <h1 align="center">Hi 👋, I'm Khandoker Nosiba Arifin</h1>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nosiba28&label=Profile%20views&color=0e75b6&style=flat" alt="nosiba28" /> </p>
 
@@ -38,5 +40,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nosiba28&show_icons=true&locale=en" alt="nosiba28" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nosiba28&show_icons=true&locale=en" alt="nosiba28" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nosiba28&" alt="nosiba28" /></p>
+
 
